@@ -1,0 +1,9 @@
+[52120:39392:1124/230409.345:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.86 (not a warning)
+[52120:39392:1124/230409.393:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[28632:51204:1124/230409.659:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[28632:51204:1124/230409.660:ERROR:direct_composition_support.cc(1034)] QueryInterface to IDCompositionDevice4 failed: Интерфейс не поддерживается (0x80004002)
+[52120:39392:1124/230410.421:INFO:CONSOLE(12)] "This page is using the deprecated ResourceLoader module "mediawiki.Uri".
+[1.43] Please use browser native URL.", source: https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022 (12)
+[52120:39392:1124/230413.601:INFO:CONSOLE(0)] "The resource https://en.wikipedia.org/static/images/project-logos/enwiki-2x.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://en.wikipedia.org/wiki/IRF2 (0)
+[48536:17600:1124/230415.896:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[48536:17600:1124/230415.896:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.

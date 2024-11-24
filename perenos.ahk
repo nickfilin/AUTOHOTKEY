@@ -3,6 +3,7 @@
 ; запуск Rufaydium
 #include Rufaydium.ahk
 Chrome := Rufaydium() ; run's webdriver
-Chrome.capabilities.setUserProfile("MAINPROFILE","J:/V2/WORKPROFILE/")
+Chrome.capabilities.setUserProfile("MAINPROFILE","J:/AUTOHOTKEY/PROFILE/")
 Page := Chrome.NewSession() ; creates sessions
-Page.Navigate("https://lk.eisrf.ru/adm/sites/cp/352830/news/new/edit")
+; Пытаемся запустить Браузер с URL из Клипборда
+Page.Navigate(A_Clipboard)
